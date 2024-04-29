@@ -1,0 +1,24 @@
+{
+  "name": "agendamento",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ForgeHefesto"
+  },
+  "author": "Matheus",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "fullcalendar": "^6.1.11",
+    "jquery-mask-plugin": "^1.14.16",
+    "mongoose": "^8.3.2"
+  }
+}
